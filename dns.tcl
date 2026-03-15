@@ -1,5 +1,5 @@
 #--------------------------------------------------------
-#                Simple !DNS (IPv4 + IPv6) by xaoc
+#           !dns (IPv4 + IPv6) by xaoc @undernet
 #                + flood protection per nick
 #--------------------------------------------------------
 
